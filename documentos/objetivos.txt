@@ -1,0 +1,3 @@
+1. Manejar con mayor fluidez los comandos de la terminal 
+2. Comprender mejor como funciona toda la terminal del Git para en futuros proyectos poder realizarlos con la mayor fluidez posible
+3. Subir correctamente los proyectos conectandolos con el repositorio de Github
